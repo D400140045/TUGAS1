@@ -1,0 +1,3 @@
+inisialisasi variable "a", "b", "c"
+persamaan kuadrat = aX^2 + bX + C = 0
+print(persamaan kuadrat)
